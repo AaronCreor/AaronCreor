@@ -5,7 +5,7 @@
 Software Developer II at **Jim Pattison Food Group** with a strong background in enterprise application development and systems integration.
 
 - 🎓 M.S. in **Computer Science** (in progress) — University of Texas at Austin  
-- 🎓 B.Sc. in **Computer Information Systems** — University of the Fraser Valley
+- 🎓 B.S. in **Computer Information Systems** — University of the Fraser Valley
 - 💼 Currently working as **Software Developer II** at Jim Pattison Food Group  
 - 🧠 Focused on building reliable, maintainable, and scalable systems  
 
