@@ -20,7 +20,6 @@ Software Developer II at **Jim Pattison Food Group** with a strong background in
 
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
@@ -38,11 +37,10 @@ Software Developer II at **Jim Pattison Food Group** with a strong background in
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 ![Unix](https://img.shields.io/badge/Unix-000000?style=for-the-badge&logo=linux&logoColor=white)
 ![J2EE](https://img.shields.io/badge/J2EE-007396?style=for-the-badge&logo=java&logoColor=white)
-
-- Jira, Confluence  
-- J2EE (Red Hat JBoss EAP)
-- GitHub Actions (CI/CD)  
-- Unix/Linux environments  
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 ---
 
@@ -50,6 +48,7 @@ Software Developer II at **Jim Pattison Food Group** with a strong background in
 
 - Backend and enterprise application development  
 - System design and maintainability  
-- Performance, reliability, and clean architecture  
+- Performance, reliability, and clean architecture
+- Artificial Intelligence
 
 ---
