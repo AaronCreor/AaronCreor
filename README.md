@@ -26,8 +26,6 @@ Software Developer II at **Jim Pattison Food Group** with a strong background in
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
 
-**Databases:** MySQL, Oracle, PostgreSQL
-
 ---
 
 ## Technologies & Tools
